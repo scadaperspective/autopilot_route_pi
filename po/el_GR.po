@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-03 14:01-0500\n"
+"PO-Revision-Date: 2018-03-04 05:54-0500\n"
+"Last-Translator: nohal <pavel@kalian.cz>\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: opencpn\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /plugins/polar_pi/po/polar_pi.pot\n"
+
+#: src/polar_pi.cpp:120 src/polar_pi.cpp:182 src/polar_pi.cpp:208
+#: src/polar_pi.cpp:230 src/polar_pi.cpp:259
+msgid "Polar"
+msgstr "Πολικό διάγραμμα"
+
+#: src/polar_pi.cpp:188
+msgid "Polar PlugIn for OpenCPN"
+msgstr "Πρόσθετο πολικού διαγράμματος για το OpenCPN"
+
+#: src/polar_pi.cpp:194
+msgid "Polar PlugIn for OpenCPN\n"
+msgstr "Πρόσθετο πολικού διαγράμματος για το OpenCPN\n"
+
+#: src/polar_pi.cpp:221
+msgid "Polar Preferences"
+msgstr "Προτιμήσεις πολικού διαγράμματος"
+
+#: src/polar_pi.cpp:234
+msgid "Show Polar icon"
+msgstr "Δείξε το εικονίδιο του πολικού διαγράμματος"
+
+#: src/polar_pi.cpp:237
+msgid "Show metres/sec for Wind Speed"
+msgstr "m/s για ταχύτητα ανέμου"
+
+#: src/Options.cpp:51
+msgid "Ma"
+msgstr "Μ"
+
+#: src/Options.cpp:52
+msgid "Tr"
+msgstr "Τρ"
+
+#: src/Options.cpp:53
+msgid "Ge1"
+msgstr "Τζ1"
+
+#: src/Options.cpp:54
+msgid "Ge2"
+msgstr "Τζ2"
+
+#: src/Options.cpp:55
+msgid "Ge3"
+msgstr "Τζ3"
+
+#: src/Options.cpp:56
+msgid "Fo1"
+msgstr "Φλ1"
+
+#: src/Options.cpp:57
+msgid "Fo2"
+msgstr "Φλ2"
+
+#: src/Options.cpp:58
+msgid "Fo3"
+msgstr "Φλ3"
+
+#: src/Options.cpp:59
+msgid "Ji"
+msgstr "Φλ"
+
+#: src/Options.cpp:60
+msgid "Mi"
+msgstr "Μι"
+
+#: src/Options.cpp:61
+msgid "Mt"
+msgstr "Μι"
+
+#: src/Options.cpp:62
+msgid "St"
+msgstr "St"
+
+#: src/Options.cpp:63
+msgid "Sp"
+msgstr "Σπ"
+
+#: src/Options.cpp:64
+msgid "?"
+msgstr ";"
+
+#: src/Options.cpp:66
+msgid "Main"
+msgstr "Μεγίστη"
+
+#: src/Options.cpp:67
+msgid "Try"
+msgstr "Μεγίστη θυέλλης"
+
+#: src/Options.cpp:68
+msgid "Genoa 1"
+msgstr "Τζένοα 1"
+
+#: src/Options.cpp:69
+msgid "Genoa 2"
+msgstr "Τζένοα 2"
+
+#: src/Options.cpp:70
+msgid "Genoa 3"
+msgstr "Τζένοα 3"
+
+#: src/Options.cpp:71
+msgid "Fock 1"
+msgstr "Φλόκος 1"
+
+#: src/Options.cpp:72
+msgid "Fock 2"
+msgstr "Φλόκος 2"
+
+#: src/Options.cpp:73
+msgid "Fock 3"
+msgstr "Φλόκος 3"
+
+#: src/Options.cpp:74
+msgid "Jib"
+msgstr "Φλόκος"
+
+#: src/Options.cpp:75
+msgid "Mizzen"
+msgstr "Μιζένα"
+
+#: src/Options.cpp:76
+msgid "Mizzen Storm"
+msgstr "Μιζένα θυέλλης"
+
+#: src/Options.cpp:77
+msgid "Staysail"
+msgstr "Στέισεϊλ"
+
+#: src/Options.cpp:78
+msgid "Spinnacker"
+msgstr "Μπαλόνι"
+
+#: src/Options.cpp:79
+msgid "You can change the abbreviations and the names of the sails\n"
+"in Options/Miscellaneous/Sails(Logbook)"
+msgstr "Μπορείτε να αλλάξετε τις συντομογραφίες και τα ονόματα των πανιών\n"
+"στο Επιλογές/Διάφορα/Πανιά (Options/Miscellaneous/Sails) (Logbook)"
+
+#: src/Options.cpp:143
+msgid "'"
+msgstr "'"
+
+#: src/Options.cpp:144
+msgid "\""
+msgstr "\""
+
+#: src/Options.cpp:146
+msgid "NM"
+msgstr "ν.μ"
+
+#: src/Options.cpp:147 src/Options.cpp:156 src/Polar.cpp:1474
+msgid "kts"
+msgstr "κόμβοι"
+
+#: src/Options.cpp:149
+msgid "m"
+msgstr "m"
+
+#: src/Options.cpp:150
+msgid "ft"
+msgstr "πόδια"
+
+#: src/Options.cpp:151
+msgid "fth"
+msgstr "οργιές"
+
+#: src/Options.cpp:154
+msgid "mb"
+msgstr "mbar"
+
+#: src/Options.cpp:155
+msgid "F"
+msgstr "F"
+
+#: src/Options.cpp:157
+msgid "m/s"
+msgstr "m/s"
+
+#: src/Options.cpp:158
+msgid "km/h"
+msgstr "km/h"
+
+#: src/Options.cpp:161
+msgid "gal"
+msgstr "γαλ"
+
+#: src/Options.cpp:162
+msgid "h"
+msgstr "h"
+
+#: src/Options.cpp:163
+msgid "E"
+msgstr "Μηχ"
+
+#: src/Options.cpp:168
+msgid "day(s)"
+msgstr "ημέρα(ες)"
+
+#: src/Options.cpp:169
+msgid "week(s)"
+msgstr "εβδομάδα(ες)"
+
+#: src/Options.cpp:170
+msgid "month"
+msgstr "μήνας"
+
+#: src/Polar.h:192
+msgid "Polar Filter"
+msgstr "Πολικό φίλτρο"
+
+#: src/Polar.cpp:74
+msgid "Max. only"
+msgstr "Μεγ. μόνο"
+
+#: src/Polar.cpp:198
+msgid "Engine started / Recording is stopped"
+msgstr "Κινητήρας ξεκίνησε / καταγραφή σταμάτησε"
+
+#: src/Polar.cpp:215
+msgid "Select a VDR-File"
+msgstr "Επιλέξτε ένα αρχείο-VDR"
+
+#: src/Polar.cpp:228 src/Polar.cpp:532
+msgid "Please wait."
+msgstr "Παρακαλώ περιμένετε."
+
+#: src/Polar.cpp:228
+msgid "Loading NMEA messages from file "
+msgstr "Φόρτωση μηνυμάτων NMEA από αρχείο "
+
+#: src/Polar.cpp:385
+msgid "less than 3 entries found"
+msgstr "βρέθηκαν λιγότερο από 3 εγγραφές"
+
+#: src/Polar.cpp:388
+msgid "less than 5 entries found"
+msgstr "βρέθηκαν λιγότερο από 5 εγγραφές"
+
+#: src/Polar.cpp:391
+msgid "more than 10 entries found"
+msgstr "βρέθηκαν περισσότερες από 10 εγγραφές"
+
+#: src/Polar.cpp:401
+msgid "2kts"
+msgstr "2 κόμβοι"
+
+#: src/Polar.cpp:404
+msgid "4kts"
+msgstr "4 κόμβοι"
+
+#: src/Polar.cpp:407
+msgid "6kts"
+msgstr "6 κόμβοι"
+
+#: src/Polar.cpp:410
+msgid "8kts"
+msgstr "8 κόμβοι"
+
+#: src/Polar.cpp:413
+msgid "10kts"
+msgstr "10 κόμβοι"
+
+#: src/Polar.cpp:416
+msgid "12kts"
+msgstr "12 κόμβοι"
+
+#: src/Polar.cpp:419
+msgid "14kts"
+msgstr "14 κόμβοι"
+
+#: src/Polar.cpp:422
+msgid "16kts"
+msgstr "16 κόμβοι"
+
+#: src/Polar.cpp:425
+msgid "18kts"
+msgstr "18 κόμβοι"
+
+#: src/Polar.cpp:428
+msgid "20kts"
+msgstr "20 κόμβοι"
+
+#: src/Polar.cpp:431
+msgid "22kts"
+msgstr "22 κόμβοι"
+
+#: src/Polar.cpp:434
+msgid "24kts"
+msgstr "24 κόμβοι"
+
+#: src/Polar.cpp:437
+msgid "26kts"
+msgstr "26 κόμβοι"
+
+#: src/Polar.cpp:440
+msgid "28kts"
+msgstr "28 κόμβοι"
+
+#: src/Polar.cpp:443
+msgid "30kts"
+msgstr "30 κόμβοι"
+
+#: src/Polar.cpp:446
+msgid "32kts"
+msgstr "32 κόμβοι"
+
+#: src/Polar.cpp:449
+msgid "34kts"
+msgstr "34 κόμβοι"
+
+#: src/Polar.cpp:452
+msgid "36kts"
+msgstr "36 κόμβοι"
+
+#: src/Polar.cpp:455
+msgid "38kts"
+msgstr "38 κόμβοι"
+
+#: src/Polar.cpp:458
+msgid "40kts"
+msgstr "40 κόμβοι"
+
+#: src/Polar.cpp:501
+msgid "Filtered by:"
+msgstr "Φιλτράρεται από:"
+
+#: src/Polar.cpp:539
+msgid "Collecting: "
+msgstr "Συλλέγει: "
+
+#: src/Polar.cpp:890
+msgid "Save Polar File"
+msgstr "Αποθήκευση αρχείου πολικού διάγράμματος"
+
+#: src/Polar.cpp:1103
+msgid "Select a Polar-File"
+msgstr "Επιλέξτε ένα αρχείο πολικού"
+
+#: src/Polar.cpp:1140
+msgid "Cannot load this file"
+msgstr "Δεν μπορεί να φορτώσει το αρχείο"
+
+#: src/Polar.cpp:1146
+msgid "Format in this file not recognised"
+msgstr "Άγνωστο φορμά αρχείου"
+
+#: src/Polar.cpp:1313
+msgid "Use Max-Speed only"
+msgstr "Χρήση ανώτατης-ταχύτητας"
+
+#: src/Polar.cpp:1320
+msgid "Use Average from all speed-data"
+msgstr "Χρήση μέσου όρου από όλα τα δεδομένα ταχύτητας"
+
+#: src/Polar.cpp:1326
+msgid "Range from maximum speed to minus"
+msgstr "Κυμαίνονται από μέγιστη ταχύτητα έως μείον"
+
+#: src/Polar.cpp:1327
+msgid "Example:\n"
+"Max-Speed = 2,5 kts\n"
+"Selected 10 % = 0,25 kts\n"
+"Range from 2,25 to 2,5 kts"
+msgstr "Παράδειγμα: \n"
+"Μεγ-ταχύτητα = 2,5 κόμβοι\n"
+"Επιλογή 10% = 0,25 κόμβοι\n"
+"Διακύμανση από 2,25 έως 2,5 κόμβοι"
+
+#: src/Polar.cpp:1344
+msgid "Range"
+msgstr "Εύρος"
+
+#: src/Polar.cpp:1366
+msgid "Sails"
+msgstr "Ιστία"
+
+#: src/Polar.cpp:1377
+msgid "MyLabel"
+msgstr "MyLabel"
+
+#: src/Polar.cpp:1391
+msgid "Wavehight"
+msgstr "ΎψοςΚύματος"
+
+#: src/Polar.cpp:1466 src/PolarGui.cpp:87
+msgid "Wind:"
+msgstr "Άνεμος:"
+
+#: src/Polar.cpp:1481
+msgid "Wavehight from"
+msgstr "Ύψος κύματος από"
+
+#: src/Polar.cpp:1486 src/Polar.cpp:1499 src/PolarGui.cpp:91
+#: src/PolarGui.cpp:118
+msgid "any"
+msgstr "οποιαδήποτε"
+
+#: src/Polar.cpp:1494
+msgid "to"
+msgstr "έως"
+
+#: src/Polar.cpp:1601
+msgid "Collecting Data from: "
+msgstr "Συλλογή δεδομένων από: "
+
+#: src/PolarDialog.cpp:38
+msgid "Start"
+msgstr "Αρχή"
+
+#: src/PolarDialog.cpp:38
+msgid "Stop"
+msgstr "Στοπ"
+
+#: src/PolarDialog.cpp:40
+msgid "Record "
+msgstr "Εγγραφή "
+
+#: src/PolarDialog.cpp:167
+msgid "The plugin logbookkonni isn't installed\n\n"
+"It's needed to collect wind/speed-data from all available logbooks\n\n"
+"The create-button is hidden and the mode isn't useable"
+msgstr "Το πρόσθετο logbookkonni δεν έχει εγκατασταθεί\n\n"
+"Χρειάζεται να συλλέξετε δεδομέναψταχύτητας/ανέμου από όλες τα διαθέσιμες log\n\n"
+"Το κουμπί δημιουργίας είναι κρυμμένο και δεν λειτουργεί"
+
+#: src/PolarGui.h:99
+msgid "Polar Diagram"
+msgstr "Πολικό διάγραμμα"
+
+#: src/PolarGui.cpp:28
+msgid "Mode:"
+msgstr "Τρόπος:"
+
+#: src/PolarGui.cpp:32
+msgid "Data from Logbooks"
+msgstr "Δεδομένα από Log"
+
+#: src/PolarGui.cpp:32
+msgid "Data from NMEA"
+msgstr "Δεδομένα από NMEA"
+
+#: src/PolarGui.cpp:32
+msgid "Data from File"
+msgstr "Δεδομένα από αρχείο"
+
+#: src/PolarGui.cpp:32
+msgid "Edit manual"
+msgstr "Επεξεργασία με το χέρι"
+
+#: src/PolarGui.cpp:38
+msgid "Filter"
+msgstr "Φιλτράρισμα"
+
+#: src/PolarGui.cpp:44
+msgid "Create"
+msgstr "Δημιουργία"
+
+#: src/PolarGui.cpp:55
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: src/PolarGui.cpp:58
+msgid "Load"
+msgstr "Φόρτωση"
+
+#: src/PolarGui.cpp:63
+msgid "Rings:"
+msgstr "Δακτύλιοι:"
+
+#: src/PolarGui.cpp:71
+msgid "Set diagramm to x knots"
+msgstr "Ορισμός γραφήματος σε x κόμβους"
+
+#: src/PolarGui.cpp:75
+msgid "Degrees:"
+msgstr "Μοίρες:"
+
+#: src/PolarGui.cpp:83
+msgid "Calculate speed-bullets for x degrees "
+msgstr "Υπολογίστε την ταχύτητα για x μοίρες "
+
+#: src/PolarGui.cpp:100
+msgid "Source:"
+msgstr "Πηγή:"
+
+#: src/PolarGui.cpp:104
+msgid "Speedo"
+msgstr "Δρομόμετρο"
+
+#: src/PolarGui.cpp:104
+msgid "GPS"
+msgstr "GPS"
+
+#: src/PolarGui.cpp:108
+msgid "Speedo uses column STW\n"
+"GPS uses column SOG"
+msgstr "Το δρομο. χρησιμοποιεί τη στήλη STW\n"
+" το GPS τη στήλη SOG"
+
+#: src/PolarGui.cpp:112
+msgid "Current <"
+msgstr "Ρεύμα"
+
+#: src/PolarGui.cpp:250
+msgid "Clear Data"
+msgstr "Εκκαθ. δεδομένων"
+
+#: src/PolarGui.cpp:253
+msgid "Record Start"
+msgstr "Έναρξη καταγραφής"
+
